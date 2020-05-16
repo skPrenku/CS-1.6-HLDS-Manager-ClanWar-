@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\CSRcon\rcon\bin\Debug\rcon.exe.manifest
+C:\Users\admin\Desktop\CSRcon\rcon\bin\Debug\rcon.application
+C:\Users\admin\Desktop\CSRcon\rcon\bin\Debug\rcon.exe
+C:\Users\admin\Desktop\CSRcon\rcon\bin\Debug\rcon.pdb
+C:\Users\admin\Desktop\CSRcon\rcon\obj\Debug\rcon.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\CSRcon\rcon\obj\Debug\CSRcon.Form1.resources
+C:\Users\admin\Desktop\CSRcon\rcon\obj\Debug\CSRcon.Form2.resources
+C:\Users\admin\Desktop\CSRcon\rcon\obj\Debug\rcon.Properties.Resources.resources
+C:\Users\admin\Desktop\CSRcon\rcon\obj\Debug\rcon.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\CSRcon\rcon\obj\Debug\rcon.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CSRcon\rcon\obj\Debug\rcon.exe.manifest
+C:\Users\admin\Desktop\CSRcon\rcon\obj\Debug\rcon.application
+C:\Users\admin\Desktop\CSRcon\rcon\obj\Debug\rcon.exe
+C:\Users\admin\Desktop\CSRcon\rcon\obj\Debug\rcon.pdb

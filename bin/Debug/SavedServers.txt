@@ -1,0 +1,4 @@
+IP: 192.168.0.15 Port: 27015 Rcon: password123 End
+IP: 192.168.0.15 Port: 27015 Rcon: mypassword123 End
+IP: 192.168.0.15 Port: 27015 Rcon: mypassword123 End
+IP: 192.168.0.15 Port: 27015 Rcon: mypassword123 End
